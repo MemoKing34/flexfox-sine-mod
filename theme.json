@@ -1,0 +1,19 @@
+{
+  "id": "flexfox",
+  "homepage": "https://github.com/yuuqilin/FlexFox",
+  "author": "yuuqilin",
+  "name": "FlexFox",
+  "description": "FlexFox makes Firefox faster, smarter, and easier to use.",
+  "version": "5.0.3",
+  "createdAt": "2024-06-22T02:09:09Z",
+  "readme": "https://raw.githubusercontent.com/yuuqilin/FlexFox/main/README.md",
+  "image": "https://raw.githubusercontent.com/yuuqilin/FlexFox/main/chrome/icons/toolbarbutton/flexfox.svg",
+  "style": {
+    "chrome": "https://raw.githubusercontent.com/yuuqilin/FlexFox/main/chrome/userChrome.css",
+    "content": "https://raw.githubusercontent.com/yuuqilin/FlexFox/main/chrome/userContent.css"
+  },
+  "tags": [
+    "content",
+    "chrome"
+  ],
+}
